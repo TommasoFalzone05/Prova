@@ -1,4 +1,4 @@
-Antonio Minarchi
-Tommaso Falzone
-Lorenzo Marchetti
-Andrea Pulina
+Antonio Minarchi,
+Tommaso Falzone,
+Lorenzo Marchetti,
+Andrea Pulina,
